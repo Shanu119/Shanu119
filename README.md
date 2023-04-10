@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/" width="1020">
+  <img src="https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif" width="600">
 </p>
 <h1 align="center">Hi <img src="https://f.hubspotusercontent40.net/hubfs/6893492/partying_face.gif" width="30">, I'm Shanu!</h1>
 <h3 align="center"> </h3>
