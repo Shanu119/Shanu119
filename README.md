@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://art.pixilart.com/d5ec027f41e057b.gif" width="500">
-</p>
 <h1 align="center">Hi <img src="https://f.hubspotusercontent40.net/hubfs/6893492/partying_face.gif" width="30">, I'm Shanu!</h1>
 <h3 align="center"> </h3>
 <p align="center">
