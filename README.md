@@ -1,11 +1,11 @@
-<h1 align="center">Hi <img src="https://f.hubspotusercontent40.net/hubfs/6893492/partying_face.gif" width="30">, I'm Shanu!</h1>
+<p align="center" dir="auto"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=300&duration=2500&pause=1000&color=F7F5F1&center=true&width=435&lines=Hi😎,I'm+Shanu!;Welcome+To+My+Profile...🖤🤍🖤" alt="Typing SVG" /></a></p>
 <h3 align="center"> </h3>
 <p align="center">
 <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="200">
 </p>
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Python,Flask,C++**
+- 💬 Ask me about **Python,HTML,CSS**
 
 - 📫 How to reach me **sanuakter0215@gmail.com**
 
@@ -21,6 +21,6 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true&username=Shanu119" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=true&username=Shanu119" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true&username=shanu119" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=true&username=shanu119" height="150" alt="languages graph"  />
 </div>
